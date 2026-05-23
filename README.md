@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muliadi 👋
 
-<!--
-**bonaarhousell/bonaarhousell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management student learning Python, AI, and problem solving.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build real projects
+- Learn AI engineering
+- Become technically strong
+
+## Projects
+- Crypto tracker
+- Python exercises
+- Automated web scraper
