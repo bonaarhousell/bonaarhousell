@@ -30,6 +30,9 @@ I learn because I want **freedom and flexibility**, the thrill of **solving comp
 
 - **[Crypto Price Tracker](https://github.com/bonaarhousell/crypto-price-tracker)** — Fetch real-time crypto data, store in Excel, scheduled automation
 - **[Python Automation with Selenium](https://github.com/bonaarhousell/python-automation-reply)** — WhatsApp message automation using web scraping
+- **[Expense Tracker using CLI command](https://github.com/bonaarhousell/expense-tracker)** — Expense Tracker using CLI command to interact
+- **[Task Tracker using CLI command](https://github.com/bonaarhousell/task-tracker)** — Task Tracker using CLI command to interact
+- **[Workout Tracker using FastAPI](https://github.com/bonaarhousell/workout-tracker)** — Workout tracker using FastAPI, JWT, postgresql, etc.
 
 *Note: These are foundation projects. I'm refining them as I grow.*
 
